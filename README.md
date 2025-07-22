@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Valkanbinary
+- 👋 Hi, I’m @Kingvrys
 - 👀 I’m interested in Blockchain technology
 - 🌱 I’m currently learning programming language
 - 💞️ I’m looking to collaborate on any Blockchain related project
